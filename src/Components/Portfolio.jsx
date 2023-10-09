@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/data scientist.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "avatar of a Data Scientist";
 
 /**
  * Project list
@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Hidden Value In Unstructured Data",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Accident Severity on Interstate Highways. This work aims to show relationships between variables that use the free text or are unstructured fields",
+    url: "https://www.kaggle.com/code/darylb/accident-severity-on-interstate-highways-by-choo",
   },
   {
     title: "Web Development for Beginners",
