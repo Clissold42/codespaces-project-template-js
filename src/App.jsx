@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Daryl Bull",
   title: " Machine Learning Specialist",
-  email: "Drayl.Bull@UON.edu.au",
+  email: "Daryl.Bull@UON.edu.au",
   gitHub: "Clissold42",
   instagram: "",
   linkedIn: "Daryl Bull",
