@@ -31,28 +31,28 @@ const imageAltText = "avatar of a Data Scientist";
  */
 const projectList = [
   {
+    title: "Meet Choo, my AI alter ego",
+    description:
+      " This AI image was created using DALL-E text-to-image AI. I asked it to produce a profile image of a data scientist who is a runner. Click here to see his sister Shewie.",
+    url: "https://github.com/Clissold42/images/blob/main/Shewie.png",
+  },
+  {
     title: "Hidden Value In Unstructured Data",
     description:
       "Accident Severity on Interstate Highways. This work aims to show relationships between variables that use the free text or are unstructured fields",
     url: "https://www.kaggle.com/code/darylb/accident-severity-on-interstate-highways-by-choo",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Resume",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I specialise in data and report-building for further details regarding my skills and experience, please refer to my Resume.",
+    url: "https://github.com/Clissold42/images/blob/main/DBS%20Resume.pdf",
   },
   {
-    title: "My Resume Site",
+    title: "Azure Machine Learning",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I regularly build models in Azure. See an example of one of the training pipelines I've built.",
+    url: "https://github.com/Clissold42/images/blob/main/pipeline.jpg",
   },
 ];
 
