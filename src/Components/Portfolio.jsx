@@ -46,7 +46,7 @@ const projectList = [
     title: "My Resume",
     description:
       "I specialise in data and report-building for further details regarding my skills and experience, please refer to my Resume.",
-    url: "https://github.com/Clissold42/images/blob/main/DBS%20Resume%202.pdf",
+    url: "https://github.com/Clissold42/images/blob/main/DB%20Resume%20-%201%20Page.pdf",
   },
   {
     title: "Azure Machine Learning",
