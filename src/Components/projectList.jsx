@@ -11,6 +11,11 @@ export const projectList = [
     url: "https://github.com/Clissold42/images/blob/main/Shewie.png",
   },
   {
+    title: "My GitHub Profile",
+    description: "Check out my GitHub profile to see more of my projects and contributions to open source.",
+    url: "https://github.com/Clissold42",
+  },
+  {
     title: "Hidden Value In Unstructured Data",
     description: "Accident Severity on Interstate Highways. This work aims to show relationships between variables that use the free text or are unstructured fields",
     url: "https://www.kaggle.com/code/darylb/accident-severity-on-interstate-highways-by-choo",
