@@ -113,6 +113,12 @@ a:hover {
   display: flex;
 }
 
+@media (max-width: 768px) {
+  .container .box {
+    padding: 16px;
+  }
+}
+
 img.socialIcon {
   height: 30px;
   width: 30px;
