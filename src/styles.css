@@ -4,7 +4,8 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
 
-html,  body {
+html,  
+body {
   font-family: "Montserrat", sans-serif;
   height: 100%;
   margin: 0;
@@ -28,7 +29,7 @@ section.min-height {
   min-height: 100vh;
 }
 
-section.padding {https://tailwindcss.com/docs/font-size
+section.padding {
   padding: 5rem 0;
 }
 
