@@ -27250,6 +27250,7 @@ const About = ()=>{
                             gap: "3rem"
                         },
                         children: skillsList.map((skill)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                                className: "skills-list-item",
                                 children: skill
                             }, skill, false, {
                                 fileName: "src/Components/About.jsx",

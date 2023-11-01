@@ -136,4 +136,33 @@ img.socialIcon {
   }
 }
 
+.skills-list {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+}
+
+.skills-list li {
+  text-align: center;
+  background: #f8f9fa;
+  border-radius: 4px;
+  flex: 1 0 21%;
+  margin: 5px;
+  padding: 10px;
+}
+
+@media (max-width: 768px) {
+  .skills-list li {
+    flex: 1 0 46%;
+  }
+}
+
+@media (max-width: 480px) {
+  .skills-list li {
+    flex: 1 0 96%;
+  }
+}
+
 /*# sourceMappingURL=index.4d663569.css.map */
