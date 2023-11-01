@@ -114,6 +114,11 @@ a:hover {
 }
 
 @media (max-width: 768px) {
+  .container {
+    grid-template-columns: 1fr;
+    margin: 10px auto;
+  }
+
   .container .box {
     padding: 16px;
   }
@@ -122,6 +127,13 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+}
+
+@media (max-width: 480px) {
+  img.socialIcon {
+    height: 20px;
+    width: 20px;
+  }
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */
