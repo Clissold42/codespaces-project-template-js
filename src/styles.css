@@ -142,3 +142,33 @@ img.socialIcon {
     width: 20px;
   }
 }
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 0;
+}
+
+.skills-list li {
+  flex: 1 0 21%; /* Default to 4 items per row. */
+  margin: 5px;
+  background: #f8f9fa;
+  padding: 10px;
+  text-align: center;
+  border-radius: 4px;
+}
+
+@media (max-width: 768px) {
+  .skills-list li {
+    /* On small screens, reduce to 2 items per row */
+    flex: 1 0 46%;
+  }
+}
+
+@media (max-width: 480px) {
+  .skills-list li {
+    /* On very small screens, reduce to 1 item per row */
+    flex: 1 0 96%;
+  }
+}

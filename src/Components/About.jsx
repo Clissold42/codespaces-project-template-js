@@ -72,7 +72,7 @@ const About = () => {
           }}
         >
           {skillsList.map((skill) => (
-            <li key={skill}>{skill}</li>
+            <li className="skills-list-item" key={skill}>{skill}</li>
           ))}
         </ul>
         <hr />
