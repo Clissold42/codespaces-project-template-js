@@ -17,7 +17,6 @@ import React from "react";
  * freely use on your site.
  */
 import image from "../images/dblinkedin.jpg";
-import { skillsList } from "./skillsList";
 
 const imageAltText =
   "Indigenous artwork shows growing cultural knowledge breaking through barriers";
@@ -27,6 +26,19 @@ const imageAltText =
  */
 const description =
   "I'm a machine learning specialist who applies practical strategies to enhance operational performance.";
+
+/**
+ * List of some of skills or technologies you work on, are learning,
+ * passionate about, or enjoy,
+ */
+const skillsList = [
+  "Statistician",
+  "Data Insight and Visualisations",
+  "AI Assistant Builder",
+  "Chemist",
+  "Regression, Classification and Clustering",
+  "Python and R",
+];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -62,7 +74,9 @@ const About = () => {
           }}
         >
           {skillsList.map((skill) => (
-            <li key={skill}>{skill}</li>
+            <li className="skills-list-item" key={skill}>
+              {skill}
+            </li>
           ))}
         </ul>
         <hr />
