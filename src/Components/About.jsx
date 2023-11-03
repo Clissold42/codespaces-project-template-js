@@ -31,11 +31,7 @@ const description =
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = [
-  "Statistician",
-  "Data Insight and Visualisations",
-  "AI Assistant Builder",  
-];
+const skillsList = ["Statistician", "Data Insight and Visualisations", "AI Assistant Builder"];
 
 /**
  * Use this to give more information about what you are passionate about,
