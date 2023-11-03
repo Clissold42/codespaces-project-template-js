@@ -34,10 +34,7 @@ const description =
 const skillsList = [
   "Statistician",
   "Data Insight and Visualisations",
-  "AI Assistant Builder",
-  "Chemist",
-  "Regression, Classification and Clustering",
-  "Python and R",
+  "AI Assistant Builder",  
 ];
 
 /**
