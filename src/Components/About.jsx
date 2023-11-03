@@ -34,7 +34,7 @@ const skillsList = [
   "Statistician",
   "Data Insight and Visualisations",
   "Chemist",
-  "Regression, Classification and Clustering",  
+  "Regression, Classification and Clustering",
 ];
 
 /**
