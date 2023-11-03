@@ -27189,7 +27189,12 @@ const imageAltText = "Indigenous artwork shows growing cultural knowledge breaki
  */ const skillsList = [
     "Statistician",
     "Data Insight and Visualisations",
-    "AI Assistant Builder"
+    "Classification",
+    "Regression",
+    "Clustering",
+    "Natural Language Processing",
+    "Deep Learning",
+    "Chemist"
 ];
 /**
  * Use this to give more information about what you are passionate about,
