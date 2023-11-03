@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -18,7 +18,8 @@ import React from "react";
  */
 import image from "../images/dblinkedin.jpg";
 
-const imageAltText = "Indigenous artwork shows growing cultural knowledge breaking through barriers";
+const imageAltText =
+  "Indigenous artwork shows growing cultural knowledge breaking through barriers";
 
 /**
  * Sort description that expands on your title on the Home component.
@@ -35,6 +36,7 @@ const skillsList = [
   "Data Insight and Visualisations",
   "Chemist",
   "Regression, Classification and Clustering",
+  "Python",
 ];
 
 /**
