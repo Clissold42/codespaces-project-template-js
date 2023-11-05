@@ -79,6 +79,7 @@ p.large {
 
 p.small {
   font-size: 15px;
+  color: red;
 }
 
 hr {
@@ -152,7 +153,7 @@ img.socialIcon {
 }
 
 .skills-list li {
-  flex: 1 0 50%; /* Default to 4 items per row. */
+  flex: 1 0 21%; /* Default to 4 items per row. */
   margin: 5px;
   background: #f8f9fa;
   padding: 10px;
