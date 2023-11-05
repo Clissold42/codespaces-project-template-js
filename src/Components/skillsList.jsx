@@ -3,7 +3,7 @@
  * passionate about, or enjoy,
  */
 export const skillsList = [
-  "Statistician",
+  "Statisticianyy",
   "Data Insight and Visualisations",
   "Classification",
   "Regression",
