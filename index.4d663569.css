@@ -137,9 +137,9 @@ img.socialIcon {
 }
 
 .skills-list {
-  flex-wrap: column;
-  align-items: left;
+  flex-direction: row;
   justify-content: space-between;
+  align-items: center;
   padding: 0;
   list-style-type: none;
   display: flex;
