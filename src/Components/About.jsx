@@ -68,8 +68,7 @@ const About = () => {
         >
           {skillsList.map((skill) => (
             <li className="skills-list-item" key={skill}>
-               color: red;
-              {skill}
+               skill}
             </li>
           ))}
         </ul>
