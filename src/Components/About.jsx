@@ -32,7 +32,7 @@ const description =
  * passionate about, or enjoy,
  */
 // eslint-disable-next-line prettier/prettier
-const skillsList = ["Statisticianyy", "Data Insight and Visualisations", "Classification", "Regression", "Clustering", "Natural Language Processing", "Deep Learning", "Chemist"];
+const skillsList = ["Statistician", "Data Insight and Visualisations", "Classification", "Regression", "Clustering", "Natural Language Processing", "Deep Learning", "Chemist"];
 
 /**
  * Use this to give more information about what you are passionate about,
