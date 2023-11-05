@@ -27188,7 +27188,7 @@ const imageAltText = "Indigenous artwork shows growing cultural knowledge breaki
  * passionate about, or enjoy,
  */ // eslint-disable-next-line prettier/prettier
 const skillsList = [
-    "Statisticianyy",
+    "Statistician",
     "Data Insight and Visualisations",
     "Classification",
     "Regression",
