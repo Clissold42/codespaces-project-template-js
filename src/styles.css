@@ -163,6 +163,8 @@ img.socialIcon {
   .skills-list li {
     /* On small screens, reduce to 2 items per row */
     flex: 1 0 46%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 }
 
