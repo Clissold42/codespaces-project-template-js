@@ -163,6 +163,8 @@ img.socialIcon {
 
 @media (max-width: 480px) {
   .skills-list li {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
     flex: 1 0 96%;
   }
 }
