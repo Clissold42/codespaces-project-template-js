@@ -31,6 +31,7 @@ const description =
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
+// eslint-disable-next-line prettier/prettier
 const skillsList = ["Statistician", "Data Insight and Visualisations", "Classification", "Regression", "Clustering", "Natural Language Processing", "Deep Learning", "Chemist"];
 
 /**
