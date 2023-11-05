@@ -27254,11 +27254,8 @@ const About = ()=>{
                         },
                         children: skillsList.map((skill)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                                 className: "skills-list-item",
-                                children: [
-                                    "color: red;",
-                                    skill
-                                ]
-                            }, skill, true, {
+                                children: "skill}"
+                            }, skill, false, {
                                 fileName: "src/Components/About.jsx",
                                 lineNumber: 70,
                                 columnNumber: 13
@@ -27270,7 +27267,7 @@ const About = ()=>{
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 76,
+                        lineNumber: 75,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27280,7 +27277,7 @@ const About = ()=>{
                         children: detailOrQuote
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 77,
+                        lineNumber: 76,
                         columnNumber: 9
                     }, undefined)
                 ]
