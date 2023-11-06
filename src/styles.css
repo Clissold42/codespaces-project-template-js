@@ -145,7 +145,7 @@ img.socialIcon {
 .skills-list {
   display: flex;
   flex-direction: row;
-  align-items:center;
+  align-items:left;
   justify-content: space-between;
   list-style-type: none;
   padding: 0;
@@ -156,7 +156,7 @@ img.socialIcon {
   margin: 5px;
   background: #f8f9fa;
   padding: 10px;
-  text-align: center;
+  text-align: left;
   border-radius: 4px;
 }
 
