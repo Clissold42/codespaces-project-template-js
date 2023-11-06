@@ -32,7 +32,7 @@ const description =
  * passionate about, or enjoy,
  */
 // eslint-disable-next-line prettier/prettier
-const skillsList = ["Statistician", "Data Insight and Visualisations", "Classification", "Regression", "Clustering", "Natural Language Processing", "Deep Learning", "Chemist"];
+const skillsList = ["Statistician", "Data Insight and Visualisations", "Classification, Regression and Clustering", "Natural Language Processing", "Deep Learning", "Chemist"];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -60,7 +60,7 @@ const About = () => {
         <hr />
         <ul
           style={{
-            textAlign: "left",
+            textAlign: "center",
             columns: 1,
             fontSize: "1.25rem",
             margin: "2rem 3rem",
