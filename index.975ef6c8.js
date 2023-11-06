@@ -27190,9 +27190,7 @@ const imageAltText = "Indigenous artwork shows growing cultural knowledge breaki
 const skillsList = [
     "Statistician",
     "Data Insight and Visualisations",
-    "Classification",
-    "Regression",
-    "Clustering",
+    "Classification, Regression and Clustering",
     "Natural Language Processing",
     "Deep Learning",
     "Chemist"
@@ -27247,7 +27245,7 @@ const About = ()=>{
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
                         style: {
-                            textAlign: "left",
+                            textAlign: "center",
                             columns: 1,
                             fontSize: "1.25rem",
                             margin: "2rem 3rem",
