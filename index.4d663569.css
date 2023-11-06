@@ -137,16 +137,16 @@ img.socialIcon {
 }
 
 .skills-list {
+  align-items: left;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
   padding: 0;
   list-style-type: none;
   display: flex;
 }
 
 .skills-list li {
-  text-align: center;
+  text-align: left;
   background: #f8f9fa;
   border-radius: 4px;
   flex: 1 0 21%;
