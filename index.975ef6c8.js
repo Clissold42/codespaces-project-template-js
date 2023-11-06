@@ -27250,7 +27250,7 @@ const About = ()=>{
                             fontSize: "1.25rem",
                             margin: "2rem 3rem",
                             gap: "3rem",
-                            color: "red"
+                            color: "black"
                         },
                         children: skillsList.map((skill)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                                 children: skill
